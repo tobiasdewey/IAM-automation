@@ -1,7 +1,7 @@
 # identity-and-access-management-IAM-
 
 This repository:
-- Is a collection of scripts written for automating Identity and Access Management (IAM) tasks across multiple cloud providers (AWS, Azure, GCP).
+- Is a collection of scripts written for automating Identity and Access Management (IAM) tasks across multiple identity/cloud providers.
 - Covers various IAM operations such as creating, updating, deleting, and listing users, groups, roles, and policies.
 - Has been organized with a focus on scalability, maintainability, and enterprise-level complexity.
 - Includes detailed explanations and comments, aimed at teaching those who are new to IAM automation and scripting.
